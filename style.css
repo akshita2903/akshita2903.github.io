@@ -1,17 +1,12 @@
 
 .container{
    
-   
-    font-family: 'Dancing Script', cursive;
+  font-family: 'Source Code Pro', monospace;
+    /* font-family: 'Dancing Script', cursive; */
 
 
 }
-.navbar-nav.ml-auto li{
-    /*font-size: 21px;*/
-font-size:30px;
-font-weight: bolder;
-   color:blue;
-}
+
 body {
     background: rgb(19, 17, 31) !important;
     
@@ -21,7 +16,7 @@ body {
     color:aqua;
     text-align: center;
     text-decoration: underline;
-    font-size:50px;
+    font-size:55px;
 
   }
  
@@ -36,13 +31,15 @@ color:#55acee;
     border: 2px snow;
   }
   .card:hover{
-    border:1px solid blueviolet
+    border:1px solid blueviolet;
   }
  
  
   
 .card-title{
-    color:rgba(190, 197, 219, 0.904);
+    color:rgba(206, 217, 223, 0.904);
+    font-size: medium;
+    font-weight: bolder;
     text-transform:uppercase;
     text-align: center;
   
@@ -178,9 +175,9 @@ color:#55acee;
   }
   
   #tech{
-    color:rgb(84, 204, 204);
-    font-weight:800;
-    font-size: 15px;
+    color:rgb(164, 174, 226);
+    font-weight:bolder;
+    font-size: 20px;
     text-transform: uppercase;
   }
   .home{
