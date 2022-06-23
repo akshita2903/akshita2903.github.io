@@ -8,8 +8,8 @@
 }
 .navbar-nav.ml-auto li{
     /*font-size: 21px;*/
-font-size:23px;
-font-weight: 270;
+font-size:30px;
+font-weight: bolder;
    color:blue;
 }
 body {
@@ -30,8 +30,8 @@ body {
   }
   .card {
     background-color:rgba(100,100,100,.1) !important;
-color:rgb(140, 140, 192);
-  font-size: 20px;
+color:#55acee;
+  font-size: 30px;
     margin-bottom: 2rem;
     border: 2px snow;
   }
