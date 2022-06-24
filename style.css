@@ -6,6 +6,10 @@
 
 
 }
+.nav-link:hover{
+  
+  border:2px solid blueviolet;
+}
 
 body {
     background: rgb(19, 17, 31) !important;
@@ -17,6 +21,7 @@ body {
     text-align: center;
     text-decoration: underline;
     font-size:55px;
+  
 
   }
  
@@ -207,3 +212,7 @@ border:2px solid#6899ca;
     background: #3a454e;
   }
   
+ .img-responsive:hover{
+  border:2px solid blueviolet;
+
+ }
