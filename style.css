@@ -9,6 +9,9 @@
 .nav-link:hover{
   
   border:2px solid blueviolet;
+  color: #6c55ee;
+  background: #3a454e;
+ 
 }
 
 body {
@@ -173,7 +176,8 @@ color:#55acee;
     color:rgb(143, 209, 187);
   }
   span{
-    color: rgb(79, 96, 192);
+  
+    color:rgb(230, 192, 255);
   }
   #imp{
     color:aquamarine;
@@ -196,11 +200,10 @@ color:rgb(35, 108, 121);
   #links a:hover{
 border:2px solid#6899ca;
   }
-  #abt2{
-    color:#55acee;
-  }
+ 
   #abt{
-    color:rgb(140, 140, 192);
+   
+ color:rgb(120, 171, 247);
   }
   #res{
     color:#6899ca;
@@ -210,9 +213,15 @@ border:2px solid#6899ca;
   #res:hover{
     color: #55acee;
     background: #3a454e;
+    border:2px solid pink;
   }
   
  .img-responsive:hover{
   border:2px solid blueviolet;
 
+ }
+ .btn.mr-2:hover,.btn:hover{
+  color: #55acee;
+  background: #3a454e;
+  border:2px solid rgb(214, 192, 255);
  }
