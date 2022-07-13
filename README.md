@@ -11,6 +11,7 @@ https://user-images.githubusercontent.com/68686051/178682003-c9dcc280-648d-4d2c-
 
 
 
+# Tech Stacks
+HTML ,CSS , JAVASCRIPT , BOOTSTRAP
 
-# Link
-[live Site](https://akshita2903.github.io/)
+# [live Site](https://akshita2903.github.io/)
