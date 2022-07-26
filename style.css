@@ -15,8 +15,9 @@
 }
 
 body {
-    background: rgb(19, 17, 31) !important;
-    
+    /* background: rgb(19, 17, 31) !important;
+     */
+    background: #252b30 !important;
   }
   .sections{
     font-family: 'Dancing Script', cursive;
@@ -178,7 +179,9 @@ color:#55acee;
   }
   span{
   
-    color:rgb(230, 192, 255);
+    /* color:rgb(230, 192, 255);
+     */
+     color:#c76cc7f1;
   }
   #imp{
     color:aquamarine;
